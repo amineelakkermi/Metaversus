@@ -1,5 +1,4 @@
 {
-  "homepage": "amineelakkermi.github.io/Metaversus",
   "name": "metaverse13",
   "version": "0.1.0",
   "private": true,
@@ -7,9 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
-    "deploy": "next build && next export && npx gh-pages -d out"
-
+    "lint": "next lint"
+  
   },
   "dependencies": {
     "eslint-config-next": "13.0.3",

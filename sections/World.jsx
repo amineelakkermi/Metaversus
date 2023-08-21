@@ -44,18 +44,7 @@ const World = () => (
 
    </div>
  
-   <div className="absolute top-10 right-[20%] w-[240px] h-[170px] p-[8px]
-  rounded-[10%] bg-[#5d6680]
-   ">
-  <img src="mask-group.png" alt="people" className="w-full h-full object-cover" />
-  <p className="absolute text-[19px] bottom-5 left-5 text-white font-bold tracking-[1px]">Hawkins Labs</p>
-   </div>
-   <div className="absolute bottom-40 left-[20%] w-[240px] h-[170px] p-[8px]
-  rounded-[10%] bg-[#5d6680]
-   ">
-  <img src="mask-group2.png" alt="people" className="w-full h-full object-cover" />
-   <p className="absolute text-[19px] bottom-5 left-5 text-white font-bold tracking-[1px]">The Upside Down</p>
-   </div>
+   
  
 
 

@@ -20,7 +20,6 @@ const GetStarted = () => (
   variants={planetVariants('left')}
   initial="hidden"
   whileInView="show"
-  viewport={{ once:false , amount: 0.25 }}
   className={`flex-1 ${styles.flexCenter}`}
   >
   <img src="/get-started.png" alt="get-started"
